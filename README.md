@@ -10,14 +10,14 @@ A full-stack Doctor Appointments application built with the **MERN Stack** (Mong
 
 ## 📌 Features
 
-### 👨‍⚕️ For Patients
+### 🩻 For Patients
 - User authentication & registration
 - View list of available doctors
 - Book appointments with preferred time slots
 - View upcoming & past appointments
 - Profile management
 
-### 🩻 For Doctors
+### 👨‍⚕️ For Doctors
 - Login & manage availability
 - View patient appointments
 - Patient interaction dashboard
@@ -43,13 +43,4 @@ A full-stack Doctor Appointments application built with the **MERN Stack** (Mong
 - Cloudinary 
 
 
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Node.js
-- MongoDB (local or Atlas)
-- npm or yarn
 
